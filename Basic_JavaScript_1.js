@@ -1,6 +1,9 @@
 <!Doctype Html>
 <html>
 <script>
-alert("Hello World!");
+var string="I love Dogs";
+var result= string.fontcolor("red");
+document.getElementById("Dog").innerHTML=
+result;
 </script>
 </html>
